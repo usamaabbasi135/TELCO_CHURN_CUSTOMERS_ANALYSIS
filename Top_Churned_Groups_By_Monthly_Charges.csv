@@ -1,0 +1,6 @@
+count(*),Average_Monthly_charge,age,gender,contract,"Customer Status"
+1,113.15,48,Male,"Two Year",Churned
+2,111.4,66,Male,"One Year",Churned
+1,110.9,69,Male,"One Year",Churned
+1,110.15,43,Male,"One Year",Churned
+2,110.1,25,Male,"Two Year",Churned
