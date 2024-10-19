@@ -1,0 +1,4 @@
+Total_Customers,"Customer Status","Payment Method",Churn_Rate
+1329,Churned,"Bank Withdrawal",71.11
+398,Churned,"Credit Card",21.29
+142,Churned,"Mailed Check",7.60
