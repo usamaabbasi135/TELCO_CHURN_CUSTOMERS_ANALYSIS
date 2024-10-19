@@ -1,0 +1,59 @@
+Total_Customers,"Customer Status","Payment Method","Churn Reason",Churn_Rate
+224,Churned,"Bank Withdrawal","Competitor had better devices",11.99
+220,Churned,"Bank Withdrawal","Competitor made better offer",11.77
+151,Churned,"Bank Withdrawal","Attitude of support person",8.08
+95,Churned,"Bank Withdrawal","Competitor offered more data",5.08
+90,Churned,"Bank Withdrawal","Don't know",4.82
+72,Churned,"Bank Withdrawal","Competitor offered higher download speeds",3.85
+69,Churned,"Bank Withdrawal","Attitude of service provider",3.69
+64,Churned,"Credit Card","Competitor had better devices",3.42
+58,Churned,"Credit Card","Attitude of support person",3.10
+57,Churned,"Bank Withdrawal","Product dissatisfaction",3.05
+56,Churned,"Credit Card","Competitor made better offer",3.00
+55,Churned,"Bank Withdrawal","Price too high",2.94
+54,Churned,"Bank Withdrawal","Network reliability",2.89
+47,Churned,"Bank Withdrawal","Service dissatisfaction",2.51
+35,Churned,"Mailed Check","Competitor made better offer",1.87
+35,Churned,"Credit Card","Don't know",1.87
+34,Churned,"Bank Withdrawal",Moved,1.82
+32,Churned,"Bank Withdrawal","Long distance charges",1.71
+28,Churned,"Bank Withdrawal","Limited range of services",1.50
+26,Churned,"Bank Withdrawal","Extra data charges",1.39
+25,Churned,"Mailed Check","Competitor had better devices",1.34
+24,Churned,"Credit Card","Long distance charges",1.28
+23,Churned,"Bank Withdrawal","Poor expertise of online support",1.23
+21,Churned,"Bank Withdrawal","Lack of affordable download/upload speed",1.12
+19,Churned,"Credit Card","Price too high",1.02
+19,Churned,"Bank Withdrawal","Lack of self-service on Website",1.02
+18,Churned,"Credit Card","Competitor offered more data",0.96
+18,Churned,"Credit Card","Attitude of service provider",0.96
+17,Churned,"Credit Card","Competitor offered higher download speeds",0.91
+16,Churned,"Credit Card","Product dissatisfaction",0.86
+12,Churned,"Credit Card","Network reliability",0.64
+12,Churned,"Credit Card","Service dissatisfaction",0.64
+11,Churned,"Credit Card","Extra data charges",0.59
+11,Churned,"Mailed Check","Attitude of support person",0.59
+11,Churned,"Mailed Check","Competitor offered higher download speeds",0.59
+8,Churned,"Mailed Check","Long distance charges",0.43
+7,Churned,"Credit Card","Poor expertise of online support",0.37
+7,Churned,"Credit Card","Lack of affordable download/upload speed",0.37
+7,Churned,"Credit Card",Moved,0.37
+7,Churned,"Credit Card","Limited range of services",0.37
+7,Churned,"Mailed Check","Attitude of service provider",0.37
+6,Churned,"Bank Withdrawal",Deceased,0.32
+6,Churned,"Mailed Check","Network reliability",0.32
+6,Churned,"Bank Withdrawal","Poor expertise of phone support",0.32
+5,Churned,"Mailed Check","Don't know",0.27
+5,Churned,"Mailed Check",Moved,0.27
+5,Churned,"Credit Card","Poor expertise of phone support",0.27
+5,Churned,"Mailed Check","Lack of self-service on Website",0.27
+5,Churned,"Credit Card","Lack of self-service on Website",0.27
+4,Churned,"Mailed Check","Competitor offered more data",0.21
+4,Churned,"Mailed Check","Price too high",0.21
+4,Churned,"Mailed Check","Product dissatisfaction",0.21
+4,Churned,"Mailed Check","Service dissatisfaction",0.21
+2,Churned,"Mailed Check","Limited range of services",0.11
+2,Churned,"Mailed Check","Lack of affordable download/upload speed",0.11
+2,Churned,"Mailed Check","Extra data charges",0.11
+1,Churned,"Mailed Check","Poor expertise of phone support",0.05
+1,Churned,"Mailed Check","Poor expertise of online support",0.05
